@@ -1,0 +1,12 @@
+.venv/
+.uv-cache/
+.mcanet-tools/
+.python/
+__pycache__/
+*.py[cod]
+/upstream/
+/data/
+/runs/
+/weights/
+/medical_seg.zip
+
